@@ -8,9 +8,5 @@ Currently, I am working on projects like **MedWeb**, a digital platform connecti
 
 Feel free to connect with me and explore my work! 😊
 
-<<<<<<< HEAD
 Name: Kinshuk Maddineni
-=======
-
-> > > > > > > 466b00d (Updated project)
-> > > > > > > Email: kinshuk.maddineni@gmail.com
+Email: kinshuk.maddineni@gmail.com
